@@ -15,6 +15,9 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 
+# Skip this
+return()
+
 # Lock YAML-CPP to 0.6.3 for compatibility
 set(ISAAC_ROS_GXF_YAML_CPP_VERSION 0.6.3)
 
